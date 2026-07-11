@@ -2,13 +2,13 @@
 
 A personal whisky bottle collection showcase, likely featuring rare, premium, or curated whisky bottles. The brand identity revolves around passion for whisky collecting, with potential themes of sophistication, craftsmanship, and connoisseurship. The collection may include bottles from various distilleries, regions, or vintages.
 
-Source: https://-8f0f7f8a.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו את אוסף הוויסקי הנדיר שלי — הויסקי של מאור
 
-URL: https://-8f0f7f8a.zappy5.app
+URL: https://example.com
 Description: צללו לאוסף ויסקי נדיר ישראלי מלא תשוקה. בקבוקים יוקרתיים ממזקקות מובילות, סיפורי טעם ומורשת. היכנסו עכשיו והתחילו לגלות עולם של אומנות וטעם!
 
 גלו את אוסף הוויסקי הנדיר שלי — הויסקי של מאור
@@ -595,7 +595,7 @@ Description: צללו לאוסף ויסקי נדיר ישראלי מלא תשו�
 
 ## מדיניות פרטיות
 
-URL: https://-8f0f7f8a.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -867,7 +867,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-8f0f7f8a.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1148,7 +1148,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-8f0f7f8a.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1448,7 +1448,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה - הויסקי של מאור
 
-URL: https://-8f0f7f8a.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: הויסקי של מאור - תודה - הויסקי של מאור
 
 תודה - הויסקי של מאור
