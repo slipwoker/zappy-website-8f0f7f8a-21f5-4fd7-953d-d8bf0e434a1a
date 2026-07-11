@@ -1,0 +1,69 @@
+# הויסקי של מאור — Generative Engine Optimization Map
+
+> A personal whisky bottle collection showcase, likely featuring rare, premium, or curated whisky bottles. The brand identity revolves around passion for whisky collecting, with potential themes of sophistication, craftsmanship, and connoisseurship. The collection may include bottles from various distilleries, regions, or vintages.
+
+---
+
+## Pages
+
+### בית
+https://-8f0f7f8a.zappy5.app
+צללו לאוסף ויסקי נדיר ישראלי מלא תשוקה. בקבוקים יוקרתיים ממזקקות מובילות, סיפורי טעם ומורשת. היכנסו עכשיו והתחילו לגלות עולם של אומנות וטעם!
+
+### תודה - הויסקי של מאור
+https://-8f0f7f8a.zappy5.app/thank-you
+הויסקי של מאור - תודה - הויסקי של מאור
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8f0f7f8a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8f0f7f8a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8f0f7f8a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-8f0f7f8a.zappy5.app
+- Endpoint: https://-8f0f7f8a.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הויסקי של מאור
+A personal whisky bottle collection showcase, likely featuring rare, premium, or curated whisky bottles. The brand identity revolves around passion for whisky collecting, with potential themes of sophistication, craftsmanship, and connoisseurship. The collection may include bottles from various distilleries, regions, or vintages.
+
+## Target Audience
+- קהילת אספני ויסקי
+- חובבי משקאות יוקרה
+
+## Industry
+Whisky Collection / Hobby
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-8f0f7f8a.zappy5.app/sitemap.xml
+- Robots: https://-8f0f7f8a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-8f0f7f8a.zappy5.app/llms-full.txt
